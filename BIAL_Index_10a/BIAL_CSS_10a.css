@@ -1,0 +1,139 @@
+﻿body {
+    background-image: url('BIAL_Graphics_Page10a/Artboard 1.png');
+    background-repeat: no-repeat;
+    background-size:1920px,1080px;
+}
+
+#Page10aImg01 {
+    position: absolute;
+    display: block;
+    top: 12.4%;
+    left: 17.5%;
+}
+
+#Page10aImg02 {
+    position: absolute;
+    display: block;
+    top: 12.4%;
+    left: 37.8%;
+}
+
+#Page10aImg03 {
+    position: absolute;
+    display: block;
+    top: 12.4%;
+    left: 62.8%;
+}
+#Page10aImg04 {
+    position: absolute;
+    display: block;
+    top: 12.4%;
+    left: 82.5%;
+}
+#Page10aImg05 {
+    position: absolute;
+    display: block;
+    top: 52.4%;
+    left: 16%;
+}
+
+#Page10aImg06 {
+    position: absolute;
+    display: block;
+    top: 52.4%;
+    left: 38.5%;
+}
+
+
+#Page10aImg07 {
+    position: absolute;
+    display: block;
+    top: 52.4%;
+    left: 64.3%;
+}
+
+#Page10aImg08 {
+    position: absolute;
+    display: block;
+    top: 52.4%;
+    left: 86.5%;
+}
+
+#Page10aImg09 {
+    position: absolute;
+    display: block;
+    top: 88.7%;
+    left: 52.2%;
+}
+
+
+.VideoPlay {
+    position: absolute;
+    left: 500px;
+    top: 150px;
+    z-index: 1;
+    display: none;
+}
+
+#hide {
+    z-index: 1;
+    position: absolute;
+    left: 650px;
+    top: 150px;
+    display: none;
+}
+
+.ImageShow {
+    position: absolute;
+    left: 150px;
+    top: 70px;
+    width :1350px;
+    height:800px;
+    z-index: 1;
+    display: none;
+}
+
+#hiddne {
+    z-index: 1;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    display: none;
+}
+
+
+
+.ImageShow2 {
+    position: absolute;
+    left: 150px;
+    top: 70px;
+    width: 1350px;
+    height: 800px;
+    z-index: 1;
+    display: none;
+}
+#hiddne2 {
+    z-index: 1;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    display: none;
+}
+
+.ImageShow3 {
+    position: absolute;
+    left: 150px;
+    top: 70px;
+    width: 1350px;
+    height: 800px;
+    z-index: 1;
+    display: none;
+}
+
+#hiddne3 {
+    z-index: 1;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    display: none;
+}

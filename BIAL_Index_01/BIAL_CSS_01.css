@@ -1,0 +1,24 @@
+
+#portview {
+    height: auto;
+    width: 100%;
+    position: absolute;
+    display: block;
+    top: 0px;
+    bottom: 0%;
+    position: center;
+}
+
+#portbottom {
+    position: absolute;
+    
+    top: 80%;
+    left: 35%;
+}
+
+#clickbutton {
+    position: absolute;
+   
+    top: 80%;
+    left: 35%;
+}

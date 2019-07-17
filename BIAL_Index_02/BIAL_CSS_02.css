@@ -1,0 +1,66 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('BIAL_Graphis_Page02/Artboard 3.png');
+    background-repeat: no-repeat;
+}
+
+
+#Page02Img02 {
+    position: absolute;
+    display: block;
+    top: 85%;
+    left: 15%;
+}
+
+#Page02Img03 {
+    position: absolute;
+    display: block;
+    top: 85%;
+    left: 45%;
+}
+
+#Page02Img04 {
+    position: absolute;
+    display: block;
+    top: 85%;
+    left: 75%;
+}
+
+#Page02Img05 {
+    position: absolute;
+    display: block;
+    top: 10%;
+    left: 69%;
+}
+
+#Page02Img06 {
+    position: absolute;
+    display: block;
+    top: 45%;
+    left: 69%;
+}
+
+#Page02Img07 {
+    position: absolute;
+    display: block;
+    top: 45%;
+    left: 10%;
+}
+
+#Page02Img08 {
+    position: absolute;
+    display: block;
+    top: 10%;
+    left: 7%;
+}
+
+#Page02Img09 {
+    position: absolute;
+    display: block;
+    top: 10%;
+    left: 45%;
+}

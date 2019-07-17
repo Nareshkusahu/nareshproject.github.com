@@ -1,0 +1,165 @@
+﻿
+body {
+    background-image: url('BIAL_Graphics_Page04a/BIAL_Index_04a_Background.png');
+    background-repeat: no-repeat;
+    background-size: 1920px,1082px;
+}
+
+
+#Page04aImg01 {
+    position: absolute;
+    display: block;
+    top: 21.2%;
+    left: 4.4%;
+}
+
+#Page04aImg02 {
+    position: absolute;
+    display: block;
+    top: 21.2%;
+    left: 23.2%;
+}
+
+#Page04aImg03 {
+    position: absolute;
+    display: block;
+    top: 21.2%;
+    left: 47.44%;
+}
+
+#Page04aImg04 {
+    position: absolute;
+    display: block;
+    top: 21.2%;
+    left: 68.2%;
+}
+
+#Page04aImg05 {
+    position: absolute;
+    display: block;
+    top: 21.2%;
+    left: 85.4%;
+}
+
+#Page04aImg06 {
+    position: absolute;
+    display: block;
+    top: 57.4%;
+    left: 14.6%;
+}
+
+#Page04aImg07 {
+    position: absolute;
+    display: block;
+    top: 57.4%;
+    left: 43.86%;
+}
+
+
+#Page04aImg08 {
+    position: absolute;
+    display: block;
+    top: 57.4%;
+    left: 74.7%;
+}
+
+#Page04aImg09 {
+    position: absolute;
+    display: block;
+    top: 91.6%;
+    left: 48%;
+}
+
+
+
+
+.ImageShow01 {
+    position: absolute;
+    left: 150px;
+    top: 70px;
+    width: 1350px;
+    height: 800px;
+    z-index: 1;
+    display: none;
+}
+
+#hiddne1 {
+    z-index: 1;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    display: none;
+}
+
+
+.ImageShow02 {
+    position: absolute;
+    left: 150px;
+    top: 70px;
+    width: 1350px;
+    height: 800px;
+    z-index: 1;
+    display: none;
+}
+
+#hiddne2 {
+    z-index: 1;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    display: none;
+}
+
+.ImageShow03 {
+    position: absolute;
+    left: 150px;
+    top: 70px;
+    width: 1350px;
+    height: 800px;
+    z-index: 1;
+    display: none;
+}
+
+#hiddne3 {
+    z-index: 1;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    display: none;
+}
+
+.ImageShow04 {
+    position: absolute;
+    left: 150px;
+    top: 70px;
+    width: 1350px;
+    height: 800px;
+    z-index: 1;
+    display: none;
+}
+
+#hiddne4 {
+    z-index: 1;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    display: none;
+}
+
+.ImageShow05 {
+    position: absolute;
+    left: 150px;
+    top: 70px;
+    width: 1350px;
+    height: 800px;
+    z-index: 1;
+    display: none;
+}
+
+#hiddne5 {
+    z-index: 1;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    display: none;
+}

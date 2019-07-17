@@ -1,0 +1,41 @@
+﻿body {
+    background-image: url('BIAL_Graphics_Page06/BIAL_Index06_Background.png');
+    background-repeat: no-repeat;
+    background-size: 1920px,1082px;
+}
+
+#Page06Img01 {
+    position: absolute;
+    display: block;
+    top: 2%;
+    left: 50.4%;
+}
+
+
+#Page06Img02 {
+    position: absolute;
+    display: block;
+    top: 35%;
+    left: 4%;
+}
+
+
+
+
+
+
+
+.VideoPlay {
+    position: absolute;
+    left: 500px;
+    top: 150px;
+    z-index: 1;
+    display: none;
+}
+#hide {
+    z-index: 1;
+    position: absolute;
+    left: 400px;
+    top: 150px;
+    display: none;
+}

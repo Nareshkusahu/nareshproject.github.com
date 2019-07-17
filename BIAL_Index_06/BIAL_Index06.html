@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>BIAL_Index06</title>
+    <link rel='stylesheet' type='text/css' media='screen' href="BIAL_CSS_06.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+
+    <img src="BIAL_Graphics_Page06\BIAL_Index06_Img01.png" class="ImageBtn" id="Page06Img01">
+
+    <video id="aaa" class="VideoPlay" width="800" height="400" controls autoplay>
+        <source src="BIAL_Graphics_Page06\BIAL_Index06_Video.mp4" type="video/mp4">
+    </video>
+
+    <script src="BIAL_Script_06.js"></script>
+    <button id="hide" type="button"> close the video </button>
+
+    <script>
+        $(document).ready(function () {
+            var video = document.getElementById("aaa");
+            $("#hide").click(function () {
+                $("#aaa").hide();
+                $(this).hide();
+                video.currentTime = 0;
+                video.pause();
+            });
+        });
+    </script>
+
+
+
+
+
+    <img src="BIAL_Graphics_Page06\BIAL_Index06_Img02.png" id="Page06Img02">
+</body>
+</html>
+
+

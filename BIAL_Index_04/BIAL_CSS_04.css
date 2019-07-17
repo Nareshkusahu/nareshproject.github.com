@@ -1,0 +1,46 @@
+﻿
+
+body {
+    background-image: url('BIAL_Graphis_Page04/BIAL_Index04_Background.png');
+    background-repeat: no-repeat;
+    background-size: 1920px,1080px;
+}
+#Page04Img02 {
+    position: absolute;
+    display: block;
+    top: 55%;
+    left: 0%;
+}
+#img403 {
+    position: absolute;
+    left: 726px;
+    right: 10px;
+    bottom: 620px;
+}
+
+
+#img404 {
+    position: absolute;
+    left: 728px;
+    right: 10px;
+    bottom: 623px;
+}
+
+.VideoPlay {
+    position: absolute;
+    left: 450px;
+    top: 150px;
+    z-index: 1;
+    display: none;
+}
+
+button {
+    z-index: 1;
+    position: absolute;
+    left: 350px;
+    top: 150px;
+}
+
+#hide {
+    display: none;
+} 

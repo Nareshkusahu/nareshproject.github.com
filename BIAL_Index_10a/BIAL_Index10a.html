@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>BIAL_Index_10a</title>
+    <link rel='stylesheet' type='text/css' media='screen' href="BIAL_CSS_10a.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+
+    <img src="BIAL_Graphics_Page10a\BIAL_10a_img01.png" class="ImageBtn01" id="Page10aImg01">
+    <img id="kkk" class="ImageShow" source src="BIAL_Graphics_Page10a\ashim-d-silva-pGcqw1ARGyg-unsplash.jpg" type="img/jpg" />
+    <button id="hiddne" type="button"> close image </button>
+    <script>
+        $(document).ready(function () {
+            var image = document.getElementById("kkk");
+            $("#hiddne").click(function () {
+                $("#kkk").hide();
+                $(this).hide();
+            });
+        });
+    </script>
+
+    <img src="BIAL_Graphics_Page10a\BIAL_10a_img02.png" class="ImageBtn02" id="Page10aImg02">
+    <img id="lll" class="ImageShow2" source src="BIAL_Graphics_Page10a\ken-yam-RSYBi_1fhfM-unsplash.jpg" type="img/jpg" />
+    <button id="hiddne2" type="button"> close image </button>
+    <script>
+        $(document).ready(function () {
+            var image = document.getElementById("lll");
+            $("#hiddne2").click(function () {
+                $("#lll").hide();
+                $(this).hide();
+            });
+        });
+    </script>
+
+    <img src="BIAL_Graphics_Page10a\BIAL_10a_img03.png" class="ImageBtn02" id="Page10aImg03">
+    <img id="mmm" class="ImageShow3" source src="BIAL_Graphics_Page10a\iwan-shimko-tCp2K2sYpFg-unsplash.jpg" type="img/jpg" />
+    <button id="hiddne3" type="button"> close image </button>
+    <script>
+        $(document).ready(function () {
+            var image = document.getElementById("mmm");
+            $("#hiddne3").click(function () {
+                $("#mmm").hide();
+                $(this).hide();
+            });
+        });
+    </script>
+
+    <img src="BIAL_Graphics_Page10a\BIAL_10a_img04.png" id="Page10aImg04">
+    <img src="BIAL_Graphics_Page10a\BIAL_10a_img05.png" id="Page10aImg05">
+    <img src="BIAL_Graphics_Page10a\BIAL_10a_img06.png" id="Page10aImg06">
+    <img src="BIAL_Graphics_Page10a\BIAL_10a_img07.png" id="Page10aImg07">
+    <img src="BIAL_Graphics_Page10a\BIAL_10a_img09.png" id="Page10aImg09">
+
+    <img src="BIAL_Graphics_Page10a\BIAL_10a_img08.png" class="ImageBtn" id="Page10aImg08"> <!--Play video button-->
+
+    <video id="vvv" class="VideoPlay" width="800" height="399" controls autoplay>
+        <source src="BIAL_Graphics_Page10a\Pexels Videos 1903279.mp4" type="video/mp4">
+    </video>
+
+    <script src="BIAL_Script10a.js"></script>
+    <button id="hide" type="button"> close the video </button>
+
+    <script>
+        $(document).ready(function () {
+            var video = document.getElementById("vvv");
+            $("#hide").click(function () {
+                $("#vvv").hide();
+                $(this).hide();
+                video.currentTime = 0;
+                video.pause();
+            });
+        });
+    </script>
+
+</body>
+</html>
